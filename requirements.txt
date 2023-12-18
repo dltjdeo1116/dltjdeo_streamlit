@@ -7,4 +7,3 @@ streamlit_folium==0.15.0
 openpyxl
 numpy
 koreanize-matplotlib
-st-pages
